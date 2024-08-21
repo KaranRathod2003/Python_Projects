@@ -1,4 +1,4 @@
-To create the quiz game in Python:
+1.To create the quiz game in Python:
 
 Start with a score of 0.
 For the first question, only add points if correct; no deduction for wrong answers.
