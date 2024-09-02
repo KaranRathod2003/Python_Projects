@@ -11,7 +11,7 @@ questions = [
     ("Is gravity a force?", True),
     ("Is 1000 meters equal to 1 kilometer?", True)
 ]
-
+print("Welcome User to Quiz Game!")
 for i in range(10):
     question, correct_ans = questions[i]
     print(question)
